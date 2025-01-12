@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Halil İbrahim ŞAHİN</h1>
 <h3 align="center">I am an Electrical and Electronics Engineer with a focus on technology, innovation, and problem-solving. I specialize in signal processing, automation, and data analysis, placing great emphasis on interdisciplinary projects. With strong analytical thinking, leadership skills, and attention to detail, I aim to develop sustainable solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=halilibrahimssahin&label=Profile%20views&color=0e75b6&style=flat" alt="halilibrahimssahin" /> </p>
+
 
 - 🔭 I’m currently working on **The digitalization of warranty systems**
 
@@ -25,4 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halilibrahimssahin&show_icons=true&locale=en" alt="halilibrahimssahin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halilibrahimssahin&" alt="halilibrahimssahin" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=halilibrahimssahin&label=Profile%20views&color=0e75b6&style=flat" alt="halilibrahimssahin" /> </p>
